@@ -1,0 +1,17 @@
+graph WisconsinCities {
+  "Madison" -- "Eau Claire" [label="178.1"]
+  "Madison" -- "La Crosse" [label="142.7"]
+  "Madison" -- "Milwaukee" [label="79.6"]
+  "Madison" -- "Appleton" [label="112.9"]
+  "Madison" -- "Green Bay" [label="144.7"]
+  "Eau Claire" -- "La Crosse" [label="85.5"]
+  "Eau Claire" -- "Milwaukee" [label="245.9"]
+  "Eau Claire" -- "Appleton" [label="182.6"]
+  "Eau Claire" -- "Green Bay" [label="191.9"]
+  "La Crosse" -- "Milwaukee" [label="209.8"]
+  "La Crosse" -- "Appleton" [label="169.6"]
+  "La Crosse" -- "Green Bay" [label="200.7"]
+  "Milwaukee" -- "Appleton" [label="106.9"]
+  "Milwaukee" -- "Green Bay" [label="116.7"]
+  "Appleton" -- "Green Bay" [label="31.7"]
+}
